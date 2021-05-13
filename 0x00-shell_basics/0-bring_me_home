@@ -1,4 +1,4 @@
-pwd
+#!/bin/bash 
 echo $HOME
 source ./0-bring_me_home
-pwd
+
