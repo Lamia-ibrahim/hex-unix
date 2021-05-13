@@ -1,0 +1,4 @@
+/tmp$ pwd
+/tmp$ echo $HOME
+/tmp$ source ./0-bring_me_home
+~$ pwd
