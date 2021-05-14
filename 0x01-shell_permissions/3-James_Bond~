@@ -1,0 +1,5 @@
+#!/bin/bash
+chmod ug-7, 0+7 hello
+
+
+
